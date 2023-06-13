@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pharmacy>
+    <name>Apollo Pharmacy </name>
+    <date>2023-04-06</date>
+    <drugs>
+        <drug>
+            <name>Antacin</name>
+            <dosage>10mg</dosage>
+        </drug>
+        <drug>
+            <name>Metadore</name>
+            <dosage>20mg</dosage>
+        </drug>
+    </drugs>
+</pharmacy>
